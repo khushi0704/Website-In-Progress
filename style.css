@@ -28,7 +28,7 @@ body{
   background-color: #00B4CC;
   border-radius: 100%;
   transition: ease-in-out 0.5s;
-  color: black;
+  color: white;
 }
 
 /* Add a color to the active/current link */
